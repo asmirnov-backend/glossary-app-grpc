@@ -4,6 +4,10 @@
 
 Использование SQLite позволяет не запускать отдельный контейнер с базой данных
 
+## Про gRPC
+
+[Про gRPC](https://colab.research.google.com/drive/1ebY2plg9D_QupFdHVBtVqQXO7XpWy7At#scrollTo=kS9-N9dwGsCQ)
+
 ## Развёртывание приложения
 
 ### Через Docker (рекомендуется)
